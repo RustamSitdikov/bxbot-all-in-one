@@ -7,6 +7,6 @@ An all in one Docker container for BX-bot. It contains:
 * [BX-bot UI Server](https://github.com/gazbert/bxbot-ui-server)
 * [BX-bot UI](https://github.com/gazbert/bxbot-ui.git)
 
-[Docker Compose](https://docs.docker.com/compose/) will be used to create an out-of-the-box Docker image for users to get started fast with BX-bot!
+[Docker Compose](https://docs.docker.com/compose/) will be used to create an out-of-the-box Docker image for users to get started _fast_ with BX-bot!
 
 Coming soon...
