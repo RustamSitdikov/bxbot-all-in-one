@@ -2,7 +2,7 @@
 
 ## What is BX-bot all-in-one?
 
-[Docker Compose](https://docs.docker.com/compose/) will be used to create an out-of-the-box Docker image for users to get started _fast_ with BX-bot!
+[Docker Compose](https://docs.docker.com/compose/) will be used to create an out-of-the-box Docker image to get started _fast_ with BX-bot!
 
 It will contain:
 
